@@ -1,4 +1,5 @@
 # Replace
+Given a text file of names and the "sector" folder from your game install (or a copy of it), this program will replace the names of every sector within that folder with what it finds in the name text file. It expects the names to be line-separated in that file.
 ## Usage
 `replace "names/to/use.txt" "../Astrox Imperium/Astrox Imperium_Data/MOD/sectors/" [flags]`
 
